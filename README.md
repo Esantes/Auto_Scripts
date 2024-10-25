@@ -1,2 +1,2 @@
-# Auto_Scripts
+# auto_scripts
 Feito para ajudar alunos da escola publica.
